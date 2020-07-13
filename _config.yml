@@ -21,7 +21,7 @@ subtitle: A set of principles and standards for the Consumer Financial Protectio
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/design-manual'
+baseurl: '/design-manual-archive'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -30,7 +30,7 @@ author:
 
 repository:
   name: Design Manual
-  url: https://github.com/cfpb/design-manual
+  url: https://github.com/cfpb/design-manual-archive
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: 'static/img/logo_210.png'
